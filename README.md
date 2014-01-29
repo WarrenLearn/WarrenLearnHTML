@@ -9,6 +9,6 @@ In this tutorial we will cover the basic principles of HTML5 document set up and
 
 ##Covered Topics
 *Doctype Declaration 
- *Head Tag
- *Body Tag
- *H1 tag
+  +Head Tag
+  +Body Tag
+  +H1 tag
